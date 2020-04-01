@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor de Moedas</string>
+    <string name="real">Qual o valor em real?</string>
+    <string name="dolar">Valor em Dólar:</string>
+    <string name="euro">Valor em Euro:</string>
+    <string name="calcular">Calcular</string>
+</resources>
